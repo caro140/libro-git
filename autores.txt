@@ -1,2 +1,6 @@
 Nombre: usuario trucho
 Email: losdelacasa2169@gmail.com
+
+nombre: Bernardo Bisogni
+
+Email: bisognibernardedu@gmail.com
